@@ -1,0 +1,3 @@
+# Ignore only these specific folders inside /dist
+/dist/images/
+/dist/videos/

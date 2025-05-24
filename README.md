@@ -53,6 +53,6 @@ This extension does **not bypass** protections or watermark systems.
 ## ✅ Get Started Today  
 Enjoy a faster, smarter way to manage your visual content.
 
-🔗 **[Try it now →](https://devraiks.com/quick-image-save/)**  
+🔗 **[Try it now →](https://chromewebstore.google.com/detail/quick-image-saving-via-cs/mofbjbggmlejlbfikeeifcfnjalkfmfm)**  
 🛠️ Developed by [DevRaiks](https://devraiks.com/)  
 © 2025 – All Rights Reserved
